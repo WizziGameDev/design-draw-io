@@ -135,6 +135,12 @@
         <mxCell id="xFOFcCz3bXLKs6IDTkx5-45" value="&lt;font color=&quot;#ffffff&quot;&gt;K&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3399FF;strokeColor=#FFFFFF;" vertex="1" parent="xFOFcCz3bXLKs6IDTkx5-2">
           <mxGeometry x="940" y="165" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xFOFcCz3bXLKs6IDTkx5-51" value="Path 1: A - B - C - D - E - F - G - I - J - K&amp;nbsp; Length= 4+3+5+3+7+7+18+10+4+8 = 69 days&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xFOFcCz3bXLKs6IDTkx5-2">
+          <mxGeometry x="35" y="250" width="475" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFOFcCz3bXLKs6IDTkx5-52" value="Path 2: A - B - C - D - E - F - H - I - J - K&amp;nbsp; Length= 4+3+5+3+7+7+24+10+4+8 = 75 days&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xFOFcCz3bXLKs6IDTkx5-2">
+          <mxGeometry x="35" y="270" width="475" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
